@@ -50,15 +50,15 @@ npm run dev
 
 ## Screenshots
 ### หน้าแรก
-![Home](<img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/b3c812ab-957d-46a1-adcc-694f8f1e490b" />
+(<img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/b3c812ab-957d-46a1-adcc-694f8f1e490b" />
 )
 
 ### รายละเอียดร้าน
-![Detail](<img width="1912" height="983" alt="image" src="https://github.com/user-attachments/assets/78153973-07d9-4fc4-a354-3b126b368611" />
+(<img width="1912" height="983" alt="image" src="https://github.com/user-attachments/assets/78153973-07d9-4fc4-a354-3b126b368611" />
 )
 
 ### ฟอร์มรีวิว
-![Review](<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/1d0b02e4-c504-4327-aace-3f41537ca001" />
+(<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/1d0b02e4-c504-4327-aace-3f41537ca001" />
 )
 
 ## ผู้พัฒนา
