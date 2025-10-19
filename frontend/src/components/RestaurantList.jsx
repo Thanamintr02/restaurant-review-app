@@ -39,15 +39,22 @@ function RestaurantList({ onSelectRestaurant }) {
     }
   };
 
-  // 4. handleSearch
-  const handleSearch = (searchTerm) => {
-    setFilters(prev => ({ ...prev, search: searchTerm }));
-  };
+ // 4. handleSearch
+    const handleSearch = (searchTerm) => {
+        setFilters(prev => {
+            if (prev.search === searchTerm) return prev; // ไม่เปลี่ยน
+            return { ...prev, search: searchTerm };
+        });
+    };
 
   // 5. handleFilterChange
-  const handleFilterChange = (newFilters) => {
-    setFilters(prev => ({ ...prev, ...newFilters }));
-  };
+    const handleFilterChange = (newFilters) => {
+        setFilters(prev => {
+        const updated = { ...prev, ...newFilters };
+        if (JSON.stringify(prev) === JSON.stringify(updated)) return prev;
+        return updated;
+        });
+    };
 
   return (
     <div className="restaurant-list-container">
