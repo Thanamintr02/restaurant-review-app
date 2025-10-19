@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1760862286072,
+    "restaurantId": 8,
+    "userName": "Bob",
+    "rating": 5,
+    "comment": "taste is Good",
+    "visitDate": "2025-10-19",
+    "createdAt": "2025-10-19T08:24:46.072Z"
+  }
+]

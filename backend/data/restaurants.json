@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "ส้มตำน้าเข้านอ้ง",
+    "name": "ส้มตำน้าเข้าน้อง",
     "category": "อาหารไทย",
     "description": "ร้านส้มตำและอาหารอีสานแท้ๆ รสชาติต้นตำรับ ส้มตำรสจัดจ้าน ลาบก้อยสดใหม่",
     "location": "ตลาดนัดสวนจตุจักร",
@@ -106,8 +106,8 @@
     "priceRange": 1,
     "phone": "02-890-1234",
     "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800",
-    "averageRating": 0,
-    "totalReviews": 0,
+    "averageRating": 5,
+    "totalReviews": 1,
     "openHours": "08:00-18:00",
     "createdAt": "2024-01-22T10:00:00.000Z"
   },
